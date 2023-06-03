@@ -1,0 +1,8 @@
+C:\D\wsb\Podstawy_programowania\workspace\cwiczenie_05\cwiczenie_05\bin\Debug\cwiczenie_05.exe.config
+C:\D\wsb\Podstawy_programowania\workspace\cwiczenie_05\cwiczenie_05\bin\Debug\cwiczenie_05.exe
+C:\D\wsb\Podstawy_programowania\workspace\cwiczenie_05\cwiczenie_05\bin\Debug\cwiczenie_05.pdb
+C:\D\wsb\Podstawy_programowania\workspace\cwiczenie_05\cwiczenie_05\obj\Debug\cwiczenie_05.csproj.AssemblyReference.cache
+C:\D\wsb\Podstawy_programowania\workspace\cwiczenie_05\cwiczenie_05\obj\Debug\cwiczenie_05.csproj.SuggestedBindingRedirects.cache
+C:\D\wsb\Podstawy_programowania\workspace\cwiczenie_05\cwiczenie_05\obj\Debug\cwiczenie_05.csproj.CoreCompileInputs.cache
+C:\D\wsb\Podstawy_programowania\workspace\cwiczenie_05\cwiczenie_05\obj\Debug\cwiczenie_05.exe
+C:\D\wsb\Podstawy_programowania\workspace\cwiczenie_05\cwiczenie_05\obj\Debug\cwiczenie_05.pdb
