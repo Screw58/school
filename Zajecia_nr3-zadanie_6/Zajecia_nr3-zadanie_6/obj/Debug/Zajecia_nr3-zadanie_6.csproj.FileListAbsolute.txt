@@ -1,0 +1,8 @@
+C:\D\wsb\Podstawy_programowania\workspace\Zajecia_nr3-zadanie_6\Zajecia_nr3-zadanie_6\bin\Debug\Zajecia_nr3-zadanie_6.exe.config
+C:\D\wsb\Podstawy_programowania\workspace\Zajecia_nr3-zadanie_6\Zajecia_nr3-zadanie_6\bin\Debug\Zajecia_nr3-zadanie_6.exe
+C:\D\wsb\Podstawy_programowania\workspace\Zajecia_nr3-zadanie_6\Zajecia_nr3-zadanie_6\bin\Debug\Zajecia_nr3-zadanie_6.pdb
+C:\D\wsb\Podstawy_programowania\workspace\Zajecia_nr3-zadanie_6\Zajecia_nr3-zadanie_6\obj\Debug\Zajecia_nr3-zadanie_6.csproj.AssemblyReference.cache
+C:\D\wsb\Podstawy_programowania\workspace\Zajecia_nr3-zadanie_6\Zajecia_nr3-zadanie_6\obj\Debug\Zajecia_nr3-zadanie_6.csproj.SuggestedBindingRedirects.cache
+C:\D\wsb\Podstawy_programowania\workspace\Zajecia_nr3-zadanie_6\Zajecia_nr3-zadanie_6\obj\Debug\Zajecia_nr3-zadanie_6.csproj.CoreCompileInputs.cache
+C:\D\wsb\Podstawy_programowania\workspace\Zajecia_nr3-zadanie_6\Zajecia_nr3-zadanie_6\obj\Debug\Zajecia_nr3-zadanie_6.exe
+C:\D\wsb\Podstawy_programowania\workspace\Zajecia_nr3-zadanie_6\Zajecia_nr3-zadanie_6\obj\Debug\Zajecia_nr3-zadanie_6.pdb
