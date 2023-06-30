@@ -1,0 +1,8 @@
+C:\Users\Jacek\source\repos\Zajecia_nr7-zadanie_2\Zajecia_nr7-zadanie_2\bin\Debug\Zajecia_nr7-zadanie_2.exe.config
+C:\Users\Jacek\source\repos\Zajecia_nr7-zadanie_2\Zajecia_nr7-zadanie_2\bin\Debug\Zajecia_nr7-zadanie_2.exe
+C:\Users\Jacek\source\repos\Zajecia_nr7-zadanie_2\Zajecia_nr7-zadanie_2\bin\Debug\Zajecia_nr7-zadanie_2.pdb
+C:\Users\Jacek\source\repos\Zajecia_nr7-zadanie_2\Zajecia_nr7-zadanie_2\obj\Debug\Zajecia_nr7-zadanie_2.csproj.AssemblyReference.cache
+C:\Users\Jacek\source\repos\Zajecia_nr7-zadanie_2\Zajecia_nr7-zadanie_2\obj\Debug\Zajecia_nr7-zadanie_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jacek\source\repos\Zajecia_nr7-zadanie_2\Zajecia_nr7-zadanie_2\obj\Debug\Zajecia_nr7-zadanie_2.csproj.CoreCompileInputs.cache
+C:\Users\Jacek\source\repos\Zajecia_nr7-zadanie_2\Zajecia_nr7-zadanie_2\obj\Debug\Zajecia_nr7-zadanie_2.exe
+C:\Users\Jacek\source\repos\Zajecia_nr7-zadanie_2\Zajecia_nr7-zadanie_2\obj\Debug\Zajecia_nr7-zadanie_2.pdb
